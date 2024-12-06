@@ -22,7 +22,7 @@ This Python and Selenium-based bot automates applying to jobs using the Easy App
 
 ## Support This Project
 
-Buy me a coffee through [PayPal]((https://paypal.me/mohamedfaroug21)) if you find this tool helpful!
+Buy me a coffee through [PayPal](https://paypal.me/mohamedfaroug21) if you find this tool helpful!
 
 ## Credits
 
